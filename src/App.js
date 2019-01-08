@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            tal ijjkj
+            noam goldface
           </a>
         </header>
       </div>
